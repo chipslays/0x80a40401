@@ -86,7 +86,10 @@
 
 # Нужна помощь
 
-Если у тебя есть полезная информация открой Issue или сделай Pull Request.
+Помоги в обновлении и дополнении информации на этой странице, сделай [Pull Request](https://github.com/chipslays/0x80a40401/pulls).
+
+Больше полезной информации в разделе [Disscusion](https://github.com/chipslays/0x80a40401/discussions).
+
 
 
 

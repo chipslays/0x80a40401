@@ -63,23 +63,24 @@
   - Вбейте домен `xsts.auth.xboxlive.com`, далее пробел и вбейте DNS через который хотите подключиться. Например `nslookup xsts.auth.xboxlive.com 185.51.200.2`.
   - Нажмите Enter и вы получите актуальные IP адрес. Например из примера выше будет адрес `50.7.85.220`.
 
+- [Подробная инструкция по Telnet и `xsts.auth.xboxlive.com`](https://4pda.to/forum/index.php?showtopic=996985&st=30820#entry122634980)
+
 - [Обзор сервиса Control D. Как обходить геоблокировку стримминговых сервисов](https://dtf.ru/u/67084-podpiska/1583518-obzor-servisa-control-d-kak-obhodit-geoblokirovku-strimmingovyh-servisov)
 
+- [Mikrotik, как добавить DNS](https://4pda.to/forum/index.php?showtopic=996985&st=30800#entry122634526)
 ## Полезные ссылки
 
-- https://4pda.to/forum/index.php?showtopic=996985&st=30880#entry122637403 - инструкция с VPN на fornex.com
-- https://4pda.to/forum/index.php?showtopic=996985&st=30860#entry122636246 - как подключиться к сервисам ЕА, на примере Fifa Ultimate Team
-- https://4pda.to/forum/index.php?showtopic=996985&st=30860#entry122636299 - дополнение к ЕА сервисам выше
-- https://4pda.to/forum/index.php?showtopic=996985&st=30680#entry122631115 - пост с днс
-- https://4pda.to/forum/index.php?showtopic=996985&st=30800#entry122634526
-- https://4pda.to/forum/index.php?showtopic=996985&st=30900#entry122637969 - скрин с DNS в настройках роутера
-- https://4pda.to/forum/index.php?showtopic=996985&st=30820#entry122634976
-- https://4pda.to/forum/index.php?showtopic=996985&st=30820#entry122634980 - подробная инструкция по telnet и xsts.auth.xboxlive.com
-- https://4pda.to/forum/index.php?showtopic=996985&st=30600#entry122626683
-- https://4pda.to/forum/index.php?showtopic=996985&st=30660#entry122628671
-- https://4pda.to/forum/index.php?showtopic=996985&st=30820#entry122635306 - подробности от майков без пруфов
-- https://4pda.to/forum/index.php?showtopic=996985&st=30820#entry122635428 - дополнения на подробности от майков выше
-- https://4pda.to/forum/index.php?showtopic=996985&st=30960#entry122640212 - controld Польша, в консоли тоже Польша - все ок
+- [Инструкция с VPN на fornex.com](https://4pda.to/forum/index.php?showtopic=996985&st=30880#entry122637403)
+- [Как подключиться к сервисам ЕА, на примере Fifa Ultimate Team](https://4pda.to/forum/index.php?showtopic=996985&st=30860#entry122636246)
+- [Дополнение к ЕА сервисам выше](https://4pda.to/forum/index.php?showtopic=996985&st=30860#entry122636299)
+- [Пост со спискорм вариантов DNS](https://4pda.to/forum/index.php?showtopic=996985&st=30680#entry122631115)
+- [Скрин с DNS в настройках роутера (EA сервисы работают)](https://4pda.to/forum/index.php?showtopic=996985&st=30900#entry122637969)
+- [Уменьшение пинга при подмене IP адреса на примере `50.7.85.221`](https://4pda.to/forum/index.php?showtopic=996985&st=30820#entry122634976)
+- [Еще один способ подмены DNS и IP адреса на Mikrotik и `adguard-dns.io`](https://4pda.to/forum/index.php?showtopic=996985&st=30600#entry122626683)
+- [Ещё один пост про пордмену IP адреса](https://4pda.to/forum/index.php?showtopic=996985&st=30660#entry122628671)
+- [Подробности от майков без пруфов](https://4pda.to/forum/index.php?showtopic=996985&st=30820#entry122635306)
+- [Дополнения на подробности от майков выше](https://4pda.to/forum/index.php?showtopic=996985&st=30820#entry122635428)
+- [Controld - Польша, в консоли тоже Польша - все ок](https://4pda.to/forum/index.php?showtopic=996985&st=30960#entry122640212)
 
 ## Приколы от тех. поддержки Microsoft
 

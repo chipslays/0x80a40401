@@ -77,7 +77,7 @@
 - [Скрин с DNS в настройках роутера (EA сервисы работают)](https://4pda.to/forum/index.php?showtopic=996985&st=30900#entry122637969)
 - [Уменьшение пинга при подмене IP адреса на примере `50.7.85.221`](https://4pda.to/forum/index.php?showtopic=996985&st=30820#entry122634976)
 - [Еще один способ подмены DNS и IP адреса на Mikrotik и `adguard-dns.io`](https://4pda.to/forum/index.php?showtopic=996985&st=30600#entry122626683)
-- [Ещё один пост про пордмену IP адреса](https://4pda.to/forum/index.php?showtopic=996985&st=30660#entry122628671)
+- [Ещё один пост про подмену IP адреса](https://4pda.to/forum/index.php?showtopic=996985&st=30660#entry122628671)
 - [Подробности от майков без пруфов](https://4pda.to/forum/index.php?showtopic=996985&st=30820#entry122635306)
 - [Дополнения на подробности от майков выше](https://4pda.to/forum/index.php?showtopic=996985&st=30820#entry122635428)
 - [Controld - Польша, в консоли тоже Польша - все ок](https://4pda.to/forum/index.php?showtopic=996985&st=30960#entry122640212)

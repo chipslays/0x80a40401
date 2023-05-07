@@ -81,7 +81,7 @@
 
 <details>
   <summary>SMMщики Xbox Support в Твиттере дают разную информацию.</summary>
-  ![](https://user-images.githubusercontent.com/19103498/236703763-24ca4584-bf60-402d-9ab2-12e007ff86ed.PNG?raw=true)
+  <img src="https://user-images.githubusercontent.com/19103498/236703763-24ca4584-bf60-402d-9ab2-12e007ff86ed.PNG" alt="Alt text" title="Optional title">
 </details>
 
 # Нужна помощь

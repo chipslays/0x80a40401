@@ -78,14 +78,14 @@
 - https://4pda.to/forum/index.php?showtopic=996985&st=30820#entry122635428 - дополнения на подробности от майков выше
 - https://4pda.to/forum/index.php?showtopic=996985&st=30960#entry122640212 - controld Польша, в консоли тоже Польша - все ок
 
-# Приколы от тех. поддержки Microsoft
+## Приколы от тех. поддержки Microsoft
 
 <details>
   <summary>SMMщики Xbox Support в Твиттере дают разную информацию.</summary>
   <img src="https://user-images.githubusercontent.com/19103498/236703763-24ca4584-bf60-402d-9ab2-12e007ff86ed.PNG" alt="Alt text" title="Optional title">
 </details>
 
-# Нужна помощь
+## Обновления и обсуждения
 
 Помоги в обновлении и дополнении информации на этой странице, сделай [Pull Request](https://github.com/chipslays/0x80a40401/pulls).
 

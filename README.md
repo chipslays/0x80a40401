@@ -93,7 +93,7 @@
 
 Помоги в обновлении и дополнении информации на этой странице, сделай [Pull Request](https://github.com/chipslays/0x80a40401/pulls).
 
-Больше полезной информации в разделе [Disscusion](https://github.com/chipslays/0x80a40401/discussions).
+Больше полезной информации в разделе [Discussions](https://github.com/chipslays/0x80a40401/discussions).
 
 
 

@@ -69,6 +69,9 @@
 - [Обзор сервиса Control D. Как обходить геоблокировку стримминговых сервисов](https://dtf.ru/u/67084-podpiska/1583518-obzor-servisa-control-d-kak-obhodit-geoblokirovku-strimmingovyh-servisov)
 
 - [Mikrotik, как добавить DNS](https://4pda.to/forum/index.php?showtopic=996985&st=30800#entry122634526)
+
+- [Инструкция по Telnet на роутере Asus RTN12 (возможно подойдет на все роутеры от Asus)](https://4pda.to/forum/index.php?showtopic=996985&st=31060#entry122650365)
+
 ## Полезные ссылки
 
 - [Инструкция с VPN на fornex.com](https://4pda.to/forum/index.php?showtopic=996985&st=30880#entry122637403)

@@ -89,6 +89,8 @@
 
 - [Подробная инструкция по Telnet и `xsts.auth.xboxlive.com`](https://4pda.to/forum/index.php?showtopic=996985&st=30820#entry122634980)
 
+- [Прописываем правило через ADGuard DNS для XBOX](https://telegra.ph/Propisyvaem-pravilo-cherez-ADGuard-DNS-dlya-XBOX-05-09)
+
 - [Обзор сервиса Control D. Как обходить геоблокировку стримминговых сервисов](https://dtf.ru/u/67084-podpiska/1583518-obzor-servisa-control-d-kak-obhodit-geoblokirovku-strimmingovyh-servisov)
 
 - [Mikrotik, как добавить DNS](https://4pda.to/forum/index.php?showtopic=996985&st=30800#entry122634526)

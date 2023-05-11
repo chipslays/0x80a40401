@@ -35,6 +35,7 @@
 - Интернет Beeline 100 mb/s
 
 Комменатрии:
+- [Почему не работает DNS, который я ввожу на Xbox](https://2ds.ru/posts/xbox-live-80a40401a/#почему-не-работает-dns-который-я-ввожу-на-xbox)
 - **‼ В пиковое время DNS может ложиться либо увеличиваться задержка. В этом случае просто подключитесь к другому из списка выше.**
 - DNS лучше всего прописывать в роутере для домена `xsts.auth.xboxlive.com`, в дополнение ещё можно для `user.auth.xboxlive.com`.
 - **Не рекомендуется** прописывать DNS для всего трафика (глобально). 
@@ -86,13 +87,10 @@
   - Нажмите Enter и вы получите актуальные IP адрес. Например из примера выше будет адрес `50.7.85.220`.
 
 - [Подробная инструкция по Telnet и `xsts.auth.xboxlive.com`](http://8ber.ru/s/rdc)
-
 - [Прописываем правило через ADGuard DNS для XBOX](http://8ber.ru/s/st9)
-
 - [Обзор сервиса Control D. Как обходить геоблокировку стримминговых сервисов](https://dtf.ru/u/67084-podpiska/1583518-obzor-servisa-control-d-kak-obhodit-geoblokirovku-strimmingovyh-servisov)
-
 - [Mikrotik, как добавить DNS](http://8ber.ru/s/4iy)
-
+- [Как установить Telnet](https://2ds.ru/posts/xbox-live-80a40401a/#установка-telnet)
 - [Инструкция по Telnet на роутере Asus RTN12 (возможно подойдет на все роутеры от Asus)](https://4pda.to/forum/index.php?showtopic=996985&st=31060#entry122650365)
 
 ## Полезные ссылки
